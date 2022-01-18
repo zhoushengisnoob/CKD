@@ -1,8 +1,8 @@
-# CKD
+# Collaborative Knowledge Distillation for Heterogeneous Information Network Embedding (CKD)
 Code for The Web Conference 2022 Paper "Collaborative Knowledge Distillation for Heterogeneous Information Network Embedding"
 
 ## Dataset
-We provide six datasets used in this paper, three of which are only used for node classification(nc), and the other three are used for both node classification and link prediction(lp)
+We provide six datasets used in this paper, three of which are only used for node classification(nc), and the other three are used for both node classification and link prediction(lp).
 In this repo, we provide the ACM dataset, the rest data can be found in [GoogleDrive](https://drive.google.com/drive/folders/1dOmetBd4wVUClUHtqYrA-r3eiXxYH8B-?usp=sharing).
 
 * ACM(nc)
