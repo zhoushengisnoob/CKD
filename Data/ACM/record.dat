@@ -1,0 +1,185 @@
+2021-09-05 11:49:22.072708
+model=HAN, task=nc, attributed=True, supervised=False
+size=100, nhead=8, dropout=0.4, neigh-por=0.6, lr=0.005, batch-size=32, epochs=150, attributed=True, supervised=False
+Macro-F1=0.4711, Micro-F1=0.4721
+
+2021-09-05 11:50:50.540634
+model=HAN, task=nc, attributed=True, supervised=False
+size=100, nhead=8, dropout=0.4, neigh-por=0.6, lr=0.005, batch-size=32, epochs=150, attributed=True, supervised=False
+Macro-F1=0.4711, Micro-F1=0.4721
+
+2021-09-05 12:43:32.881295
+model=HIN2Vec, task=nc, attributed=False, supervised=False
+size=100, alpha=0.025, windows=3, negative=5, walk_num=10, walk_len=100
+Macro-F1=0.4557, Micro-F1=0.4565
+
+2021-09-12 13:59:24.638440
+model=HIN2Vec, task=nc, attributed=False, supervised=False
+size=100, alpha=0.025, windows=3, negative=5, walk_num=10, walk_len=100
+Macro-F1=0.4557, Micro-F1=0.4565
+
+2021-09-12 14:00:18.755910
+model=HIN2Vec, task=nc, attributed=False, supervised=False
+size=100, alpha=0.025, windows=3, negative=5, walk_num=10, walk_len=100
+Macro-F1=0.9083, Micro-F1=0.9085
+
+2021-09-12 14:08:14.158304
+model=HAN, task=nc, attributed=False, supervised=False
+size=100, nhead=8, dropout=0.4, neigh-por=0.6, lr=0.005, batch-size=32, epochs=150, attributed=True, supervised=False
+Macro-F1=0.9214, Micro-F1=0.9217
+
+2021-09-15 08:10:32.762923
+model=SDA, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0, ,topk:15, lr=5e-05, batch-size=6, epochs=200, attributed=True, supervised=False
+Macro-F1=0.8955, Micro-F1=0.8963
+
+2021-09-15 08:11:35.309065
+model=SDA, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0, ,topk:15, lr=4e-06, batch-size=6, epochs=200, attributed=True, supervised=False
+Macro-F1=0.9068, Micro-F1=0.9074
+
+2021-09-15 14:48:16.076450
+model=SDA, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0, ,topk:15, lr=5e-05, batch-size=6, epochs=200, attributed=True, supervised=False
+Macro-F1=0.9056, Micro-F1=0.9063
+
+2021-09-15 14:50:05.636481
+model=SDA, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0, ,topk:15, lr=5e-05, batch-size=6, epochs=200, attributed=True, supervised=False
+Macro-F1=0.9056, Micro-F1=0.9063
+
+2021-09-16 10:16:52.530222
+model=SDA, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0, ,topk:35, lr=5e-05, batch-size=6, epochs=200, attributed=True, supervised=False
+Macro-F1=0.8921, Micro-F1=0.8930
+
+2021-09-16 14:06:43.388740
+model=SDA, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0, ,topk:35, lr=5e-05, batch-size=6, epochs=200, attributed=True, supervised=False
+Macro-F1=0.8921, Micro-F1=0.8930
+
+2021-09-16 14:06:52.458921
+model=SDA, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0, ,topk:35, lr=5e-05, batch-size=6, epochs=200, attributed=True, supervised=False
+Macro-F1=0.9031, Micro-F1=0.9041
+
+2021-10-16 05:20:21.874132
+model=SDA, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0, ,topk:15, lr=5e-05, batch-size=6, epochs=200, attributed=True, supervised=False
+Macro-F1=0.9056, Micro-F1=0.9063
+
+2021-10-16 05:21:02.931003
+model=SDA, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0, ,topk:15, lr=5e-05, batch-size=6, epochs=200, attributed=True, supervised=False
+Macro-F1=0.9056, Micro-F1=0.9063
+
+2021-10-16 05:21:12.607097
+model=SDA, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0, ,topk:15, lr=5e-05, batch-size=6, epochs=200, attributed=True, supervised=False
+Macro-F1=0.8955, Micro-F1=0.8963
+
+2021-10-16 05:21:21.617539
+model=SDA, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0, ,topk:15, lr=4e-06, batch-size=6, epochs=200, attributed=True, supervised=False
+Macro-F1=0.9068, Micro-F1=0.9074
+
+2021-10-16 05:21:33.720783
+model=SDA, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0, ,topk:35, lr=5e-05, batch-size=6, epochs=200, attributed=True, supervised=False
+Macro-F1=0.8921, Micro-F1=0.8930
+
+2021-10-16 05:21:41.895994
+model=SDA, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0, ,topk:35, lr=5e-05, batch-size=6, epochs=200, attributed=True, supervised=False
+Macro-F1=0.9020, Micro-F1=0.9030
+
+2021-10-16 05:21:52.496683
+model=SDA, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0, ,topk:20, lr=5e-05, batch-size=6, epochs=200, attributed=True, supervised=False
+Macro-F1=0.8889, Micro-F1=0.8897
+
+2022-01-16 14:46:08.506566
+model=SDA, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0, ,topk:15, lr=5e-05, batch-size=6, epochs=200, attributed=True, supervised=False
+Macro-F1=0.9023, Micro-F1=0.9030
+
+2022-01-16 14:59:15.123048
+model=CKD, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0, ,topk:20, lr=1e-05, batch-size=6, epochs=100, attributed=True, supervised=False
+Macro-F1=0.4643, Micro-F1=0.4651
+
+2022-01-16 14:59:38.529516
+model=CKD, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0, ,topk:20, lr=1e-05, batch-size=6, epochs=100, attributed=True, supervised=False
+Macro-F1=0.4632, Micro-F1=0.4641
+
+2022-01-16 15:11:01.242899
+model=CKD, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0, ,topk:20, lr=1e-05, batch-size=6, epochs=100, attributed=True, supervised=False
+Macro-F1=0.4748, Micro-F1=0.4750
+
+2022-01-16 15:19:19.084100
+model=CKD, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0,dim:100 ,topk:20, lr=1e-05,global_weight=0.05,batch-size=6, epochs=100, attributed=True, supervised=False
+Macro-F1=0.4740, Micro-F1=0.4744
+
+2022-01-16 15:19:57.701705
+model=CKD, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0,dim:100 ,topk:20, lr=1e-05,global_weight=0.05,batch-size=6, epochs=100, attributed=True, supervised=False
+Macro-F1=0.4740, Micro-F1=0.4744
+
+2022-01-16 15:31:53.806597
+model=CKD, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0,dim:100 ,topk:20, lr=1e-05,global_weight=0.05,batch-size=6, epochs=100, attributed=True, supervised=False
+Macro-F1=0.4740, Micro-F1=0.4744
+
+2022-01-16 15:34:29.490857
+model=CKD, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0,dim:100 ,topk:20, lr=1e-05,global_weight=0.05,batch-size=6, epochs=100, attributed=True, supervised=False
+Macro-F1=0.4740, Micro-F1=0.4744
+
+2022-01-16 15:36:45.875184
+model=CKD, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0,dim:100 ,topk:20, lr=1e-05,global_weight=0.05,batch-size=6, epochs=100, attributed=True, supervised=False
+Macro-F1=0.9080, Micro-F1=0.9085
+
+2022-01-16 15:37:20.124720
+model=CKD, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0,dim:100 ,topk:20, lr=1e-05,global_weight=0.05,batch-size=6, epochs=100, attributed=True, supervised=False
+Macro-F1=0.9080, Micro-F1=0.9085
+
+2022-01-16 15:37:42.142363
+model=CKD, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0,dim:100 ,topk:20, lr=1e-05,global_weight=0.05,batch-size=6, epochs=100, attributed=True, supervised=False
+Macro-F1=0.9080, Micro-F1=0.9085
+
+2022-01-16 15:39:17.546546
+model=CKD, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0,dim:100 ,topk:20, lr=1e-05,global_weight=0.05,batch-size=6, epochs=100, attributed=True, supervised=False
+Macro-F1=0.9080, Micro-F1=0.9085
+
+2022-01-16 15:40:10.963120
+model=CKD, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0,dim:100 ,topk:20, lr=1e-05,global_weight=0.05,batch-size=6, epochs=100, attributed=True, supervised=False
+Macro-F1=0.9080, Micro-F1=0.9085
+
+2022-01-16 15:40:19.408041
+model=CKD, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0,dim:100 ,topk:20, lr=1e-05,global_weight=0.05,batch-size=6, epochs=100, attributed=True, supervised=False
+Macro-F1=0.9065, Micro-F1=0.9074
+
+2022-01-16 15:40:25.350594
+model=CKD, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0,dim:100 ,topk:20, lr=1e-05,global_weight=0.05,batch-size=6, epochs=100, attributed=True, supervised=False
+Macro-F1=0.9080, Micro-F1=0.9085
+
+2022-01-16 15:41:22.801258
+model=CKD, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0, ,topk:20, lr=1e-05, batch-size=6, epochs=100, attributed=True, supervised=False
+Macro-F1=0.9078, Micro-F1=0.9085
+
+2022-01-16 15:47:13.024719
+model=CKD, task=nc, attributed=True, supervised=False
+size=50, dropout=0.0, ,topk:20, lr=1e-05, batch-size=6, epochs=100, attributed=True, supervised=False
+Macro-F1=0.9078, Micro-F1=0.9085
+

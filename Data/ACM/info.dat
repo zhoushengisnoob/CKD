@@ -1,0 +1,36 @@
+node.dat
+
+TYPE	MEANING
+0		PAPER
+1		AUTHOR
+2		SUBJECT
+3		TERM
+
+Attribute Dimension: 200
+
+-----------------------------------------------
+
+link.dat
+
+LINK	START	END	MEANING
+0		0		0	paper-cite-paper
+1		0		0	paper-ref-paper
+2		0		1	paper-author
+3		1		0	author-paper
+4		0		2	paper-subject
+5		2		0	subject-paper
+6		0		3	paper-term
+7		3		0	term-paper
+
+Targeting: Link Type (0,0,0)
+
+-----------------------------------------------
+
+label.dat
+
+TYPE	CLASS	MEANING
+0		0		database
+0		1		wireless communication
+0		2		data mining
+
+Targeting: Label Type 0
