@@ -1,5 +1,5 @@
 # Collaborative Knowledge Distillation for Heterogeneous Information Network Embedding (CKD)
-Code for The Web Conference 2022 Paper "Collaborative Knowledge Distillation for Heterogeneous Information Network Embedding"
+Code for The Web Conference 2022 Paper "Collaborative Knowledge Distillation for Heterogeneous Information Network Embedding" [[Paper]](https://zhoushengisnoob.github.io/papers/WWW2022.pdf)
 
 ## Dataset
 We provide six datasets used in this paper, three of which are only used for node classification(nc), and the other three are used for both node classification and link prediction(lp).
